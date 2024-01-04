@@ -33,8 +33,11 @@ El diccionario de columnas se encuentra en en este repositorio.
 ## Desafíos del proyecto:
 * Se tiene un desbalance en la distribución del target (8% Ctes buenos vs 92% ctes malos).
     * **Solución**: Se aplican dos técnicas de remuestreo: SMOTE (*Synthetic Minority Oversampling Technique*) y Undersampling, ambas combinanadas en un pipeline.
-* El conjunto de datos después de realizar ingeniería de características y cruces,  cuenta con **220 columnas** y 3 millones de registros, lo cual conlleva a tener el problema de dimensionalidad.
-    * **Solución**: Se aplican filtros de valores faltantes, correlación, **regularización $L1$** y Valor de la información (IV). **El resultado de aplicar estas técnicas es la selección del top 10 de características con más poder predictivo para el modelo.** 
+
+* El conjunto de datos después de realizar ingeniería de características y cruces entre tablas,  cuenta con **220 columnas** y 3 millones de registros, lo cual conlleva a tener un problema de dimensionalidad.
+    * **Solución**: Se aplican filtros de valores faltantes, correlación, **regularización $L1$** y Valor de la información (IV).
+    
+      **El resultado de aplicar estas técnicas es la selección del top 10 de características con más poder predictivo para el modelo.** 
 
       
   
