@@ -22,5 +22,4 @@ Información externa de:
 
 El diagrama de como se relacionan los conjuntos de datos es el siguiente:
 
-![ScoreCard-Project](diagrama tablas.png)
-diagrama tablas.png
+![diagrama tablas](https://github.com/angujoma/ScoreCard-Project/assets/141785336/7a08cff0-3d8a-487a-970c-3b3bec8382b6)
