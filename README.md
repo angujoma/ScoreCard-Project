@@ -24,5 +24,6 @@ El diagrama de relación es el siguiente:
 El diccionario de columnas se encuentra en en este repositorio. 
 
 ### Consideraciones:
-* 
+* Ya se encuentra definida la target y por tanto, cliente bueno y malo. Sin embargo, hay que tener en cuenta que se deben definir **mediante matrices de transición** y en conjunto con los **stakeholders**. Además de la ventana de tiempo en la que se considere la información.
+
 
