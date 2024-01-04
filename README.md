@@ -13,7 +13,7 @@ La Scorecard desarrollada en el presente trabajo es para **la originación de pr
 La última parte de este proyecto muestra la puesta en producción de la Scorecard de forma local.
 
 ## Fuentes de información
-El conjunto de datos usa es público y se encuentra en: https://www.kaggle.com/competitions/home-credit-default-risk/data. 
+El conjunto de datos usado es público y se encuentra en: https://www.kaggle.com/competitions/home-credit-default-risk/data. 
 
 Se considera información relativa a:
 * Solicitudes
@@ -28,7 +28,7 @@ El diagrama de relación es el siguiente:
 El diccionario de columnas se encuentra en en este repositorio. 
 
 ### Consideraciones:
-* Ya se encuentra definida la target y por tanto, la definición de cliente bueno y malo. Sin embargo, es importante mencionar que se deben definir **mediante matrices de transición** y en consenso con los **stakeholders**. Además de la ventana de tiempo en la que se considere la información.
+* La target ya se encuentra definida y por tanto, la definición de cliente bueno y malo. Sin embargo, es importante mencionar que se deben definir **mediante matrices de transición** y en consenso con los **stakeholders**. Además de la ventana de tiempo en la que se considere la información.
 
 ## Desafíos del proyecto:
 * Se tiene un desbalance en la distribución del target (8% Ctes buenos vs 92% ctes malos).
