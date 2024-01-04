@@ -15,6 +15,7 @@ Dicha fuente contiene información relativa a:
 * Solcitudes previas
 * Comportamiento interno de pagos
 * Buró de Crédito
-El diagrama de como se relacionan los conjuntos de datos es el siguiente:
+  
+El diagrama de relación es el siguiente:
 
 ![diagrama tablas](https://github.com/angujoma/ScoreCard-Project/assets/141785336/7a08cff0-3d8a-487a-970c-3b3bec8382b6)
