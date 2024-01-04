@@ -21,3 +21,5 @@ Información externa de:
 * Comportamiento de pagos en otras insitituciones
 
 El diagrama de como se relacionan los conjuntos de datos es el siguiente:
+
+![Screenshot](diagrama tablas.png)
