@@ -10,6 +10,7 @@ La implementación de Scorecards en la industria financiera lleva bastante tiemp
       
 La Scorecard desarrollada en el presente trabajo es para **la originación de prestamos hipótecarios**. Sin embargo, la metodología seguida también es aplicable a la construcción de scores de comportamiento, cobranza, propensión, fraudes, satisfacción, retención, etc. 
 
+La última parte de este proyecto muestra la puesta en producción de la Scorecard de forma local.
 
 ## Fuentes de información
 El conjunto de datos usa es público y se encuentra en: https://www.kaggle.com/competitions/home-credit-default-risk/data. 
