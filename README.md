@@ -22,4 +22,5 @@ Información externa de:
 
 El diagrama de como se relacionan los conjuntos de datos es el siguiente:
 
-![Screenshot](diagrama tablas.png)
+![ScoreCard-Project](diagrama tablas.png)
+diagrama tablas.png
