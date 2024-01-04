@@ -55,10 +55,7 @@ def main():
         r'* Tasa de Rechazo=%.2f%%' % (tasa_rechazo, ),
         r'* Tasa de Aceptación=%.2f%%' % (tasa_aceptacion, )
          ))
-   
-        
-        
-    
+     
     
     html_temp = """ 
     <div style ="background-color:white;padding:5px"> 
@@ -66,10 +63,8 @@ def main():
     </div> 
     """
       
-
     st.markdown(html_temp, unsafe_allow_html = True) 
       
-   
     result ="" 
     
     
