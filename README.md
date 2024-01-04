@@ -7,6 +7,8 @@ La implementación de Scorecards en la industria financiera lleva bastante tiemp
    
 * **Desventajas**:
     * En algunos casos menor precisión que los algoritmos mencionados.
+ 
+## Fuente de información
 
  La Scorecard desarrollada en el presente trabajo es para **la originación** de prestamos hipótecarios, cuya fuente de información usada se encuentra en: https://www.kaggle.com/competitions/home-credit-default-risk/data.
 
@@ -19,3 +21,8 @@ Dicha fuente contiene información relativa a:
 El diagrama de relación es el siguiente:
 
 ![diagrama tablas](https://github.com/angujoma/ScoreCard-Project/assets/141785336/7a08cff0-3d8a-487a-970c-3b3bec8382b6)
+El diccionario de columnas se encuentra en en este repositorio. 
+
+### Consideraciones:
+* 
+
