@@ -31,7 +31,7 @@ El diccionario de columnas se encuentra en en este repositorio.
 * La target ya se encuentra definida y por tanto, la definición de cliente bueno y malo. Sin embargo, es importante mencionar que se deben definir **mediante matrices de transición** y en consenso con los **stakeholders**. Además de la ventana de tiempo en la que se considere la información.
 
 ## Desafíos del proyecto:
-* Se tiene un desbalance en la distribución del target (8% Ctes buenos vs 92% ctes malos).
+* Se tiene un desbalance en la distribución del target (8% Ctes malos vs 92% ctes buenos).
     * **Solución**: Se aplican dos técnicas de remuestreo: SMOTE (*Synthetic Minority Oversampling Technique*) y Undersampling, ambas combinanadas en un pipeline.
 
 * El conjunto de datos después de realizar ingeniería de características y cruces entre tablas,  cuenta con **220 columnas** y 3 millones de registros, lo cual conlleva a tener un problema de dimensionalidad.
