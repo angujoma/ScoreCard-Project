@@ -46,7 +46,10 @@ El diccionario de columnas se encuentra en en este repositorio.
 * **Deplyment**: Carpeta que contiene los archivos necesarios para ejecutar la aplicación localmente.
 * **Módulos customizados**: Contiene los módulos para construcción de la Scorecard y modelado.
 * **HCDR_model.pkl**: Archivo ejecutable del modelo de regresión logisítica.
-* **Ingeneria de variables**
+* **Ingenería de variables.ipynb**: Notebook con toda la ingenería de variables, cruces de información y limpieza.
+* **Modelado.ipynb**: Notebook con todo el modelado y construcción de la Scorecard.
+* **Imput_train_values.pkl**: Valores usados en la imputación de valores faltantes.
+* **Predictors**: Predictores finales usados en el modelo. 
 
 
       
