@@ -25,7 +25,7 @@ El diagrama de relación es el siguiente:
 
 ![diagrama tablas](https://github.com/angujoma/ScoreCard-Project/assets/141785336/7a08cff0-3d8a-487a-970c-3b3bec8382b6)
 
-El diccionario de columnas se encuentra en en este repositorio. 
+El diccionario de columnas se encuentra en este repositorio. 
 
 ### Consideraciones:
 * La target ya se encuentra definida y por tanto, la definición de cliente bueno y malo. Sin embargo, es importante mencionar que se deben definir **mediante matrices de transición** y en consenso con los **stakeholders**. Además de la ventana de tiempo en la que se considere la información.
