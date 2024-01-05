@@ -39,10 +39,14 @@ El diccionario de columnas se encuentra en en este repositorio.
     
       **El resultado de aplicar estas técnicas es la selección del top 10 de características con más poder predictivo para el modelo.**
 
-# Resumen variables usadas y métricas obtenidas
+## Resumen variables usadas y métricas obtenidas
 
 
 ## Descripción de los archivos:
+* **Deplyment**: Carpeta que contiene los archivos necesarios para ejecutar la aplicación localmente.
+* **Módulos customizados**: Contiene los módulos para construcción de la Scorecard y modelado.
+* **HCDR_model.pkl**: Archivo ejecutable del modelo de regresión logisítica.
+* **Ingeneria de variables**
 
 
       
