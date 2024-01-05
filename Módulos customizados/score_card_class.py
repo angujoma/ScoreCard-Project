@@ -32,8 +32,6 @@ class score_card:
     return data
 
 
-
-
 # Fución para convertir en floats
   def str_to_int(self,s):
     if s == '-inf' or s==np.inf:
