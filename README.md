@@ -41,15 +41,16 @@ El diccionario de columnas se encuentra en en este repositorio.
 
 ## Resumen predictores usados y métricas obtenidas:
 **Predictores usados**:
-* EXT_SOURCE_3:
-* EXT_SOURCE_2:
-* EXT_SOURCE_1:
-* REGION_RATING_CLIENT:
-* bd_CREDITS_ACTIVE_sum:
-* bd_CREDITS_CLOSED_sum:
-* REG_CITY_NOT_WORK_CITY:
-* SUM_FLAGS_DOCUMENTS:
-* REG_CITY_NOT_LIVE_CITY:
+* EXT_SOURCE_3: Score Normalizado del cliente construido con información externa.
+* EXT_SOURCE_2: Score Normalizado del cliente construido con información externa.
+* EXT_SOURCE_1: Score Normalizado del cliente construido con información externa.
+* REGION_RATING_CLIENT: Calificación interna del cliente.
+* bd_CREDITS_ACTIVE_sum: Suma de los créditos activos del cliente en Buró al momento de la solicitud.
+* pre_app_APP_REFUSED_sum: Cuantas solicitudes previas a la actual, fueron rechazadas al cliente.
+* bd_CREDITS_CLOSED_sum: Suma de los créditos cerrados del cliente en Buró al momento de la solicitud. 
+* REG_CITY_NOT_WORK_CITY: Indica si la dirección del trabajo del cliente es la proporcionada en el contrato. 
+* SUM_FLAGS_DOCUMENTS: Cuantos documentos no obligatorios entregó el cliente al momento de la solicitud. 
+* REG_CITY_NOT_LIVE_CITY: Indica si la dirección del cliente es la proporcionada en el contrato. 
 
 
 
