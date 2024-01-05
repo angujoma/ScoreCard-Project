@@ -67,7 +67,7 @@ El diccionario de columnas se encuentra en en este repositorio.
 
 
 ## Descripción de los archivos:
-* **Deplyment**: Carpeta que contiene los archivos necesarios para ejecutar la aplicación localmente.
+* **Deployment**: Carpeta que contiene los archivos necesarios para ejecutar la aplicación localmente.
 * **Módulos customizados**: Contiene los módulos para construcción de la Scorecard y modelado.
 * **HCDR_model.pkl**: Archivo ejecutable del modelo de regresión logisítica.
 * **Ingenería de variables.ipynb**: Notebook con toda la ingenería de variables, cruces de información y limpieza.
