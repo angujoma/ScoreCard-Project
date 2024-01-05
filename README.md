@@ -39,7 +39,18 @@ El diccionario de columnas se encuentra en en este repositorio.
     
       **El resultado de aplicar estas técnicas es la selección del top 10 de características con más poder predictivo para el modelo.**
 
-## Resumen variables usadas y métricas obtenidas
+## Resumen predictores usados y métricas obtenidas:
+**Predictores usados**:
+* EXT_SOURCE_3:
+* EXT_SOURCE_2:
+* EXT_SOURCE_1:
+* REGION_RATING_CLIENT:
+* bd_CREDITS_ACTIVE_sum:
+* bd_CREDITS_CLOSED_sum:
+* REG_CITY_NOT_WORK_CITY:
+* SUM_FLAGS_DOCUMENTS:
+* REG_CITY_NOT_LIVE_CITY:
+
 
 
 ## Descripción de los archivos:
