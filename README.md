@@ -39,8 +39,8 @@ El diccionario de columnas se encuentra en en este repositorio.
     
       **El resultado de aplicar estas técnicas es la selección del top 10 de características con más poder predictivo para el modelo.**
 
-## Resumen predictores usados y métricas obtenidas:
-**Predictores usados**:
+## Predictores usados
+
 * EXT_SOURCE_3: Score Normalizado del cliente construido con información externa.
 * EXT_SOURCE_2: Score Normalizado del cliente construido con información externa.
 * EXT_SOURCE_1: Score Normalizado del cliente construido con información externa.
@@ -50,7 +50,19 @@ El diccionario de columnas se encuentra en en este repositorio.
 * bd_CREDITS_CLOSED_sum: Suma de los créditos cerrados del cliente en Buró al momento de la solicitud. 
 * REG_CITY_NOT_WORK_CITY: Indica si la dirección del trabajo del cliente es la proporcionada en el contrato. 
 * SUM_FLAGS_DOCUMENTS: Cuantos documentos no obligatorios entregó el cliente al momento de la solicitud. 
-* REG_CITY_NOT_LIVE_CITY: Indica si la dirección del cliente es la proporcionada en el contrato. 
+* REG_CITY_NOT_LIVE_CITY: Indica si la dirección del cliente es la proporcionada en el contrato.
+
+## Métricas de desempeño obtenidas:
+* Entrenamiento:
+   * Accuracy: 0.877
+   * RoC AuC: 0.721
+   * GINI: 0.442
+   * KS:0.32
+* Test:
+   * Accuracy: 0.878
+   * RoC AuC: 0.729
+   * GINI: 0.457
+   * KS: 0.34
 
 
 
