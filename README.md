@@ -41,9 +41,9 @@ El diccionario de columnas se encuentra en en este repositorio.
 
 ## Predictores usados
 
-* EXT_SOURCE_3: Score Normalizado del cliente construido con información externa.
-* EXT_SOURCE_2: Score Normalizado del cliente construido con información externa.
-* EXT_SOURCE_1: Score Normalizado del cliente construido con información externa.
+* EXT_SOURCE_3: Score 1 Normalizado del cliente construido con información externa.
+* EXT_SOURCE_2: Score 2 Normalizado del cliente construido con información externa.
+* EXT_SOURCE_1: Score 3 Normalizado del cliente construido con información externa.
 * REGION_RATING_CLIENT: Calificación interna del cliente.
 * bd_CREDITS_ACTIVE_sum: Suma de los créditos activos del cliente en Buró al momento de la solicitud.
 * pre_app_APP_REFUSED_sum: Cuantas solicitudes previas a la actual, fueron rechazadas al cliente.
