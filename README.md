@@ -1,4 +1,4 @@
-# Desarrollo de punta a punta de una Scorecard de originación
+# Desarrollo de punta a punta de una Scorecard de originación para créditos hipotecarios
 La implementación de Scorecards en la industria financiera lleva bastante tiempo en uso, pues a pesar de la existencia y posibilidad de implementar clasificadores más complejos como *Random Forest, SVM, AdaBoost, Gradient Boosting, XGboost o incluso Redes Neuronales*, no son de fácil interpretación (cajas negras), sobre todo para las áreas comerciales. También sulen consumir más recursos computacionales, sin importar si el modelo está implementado en nube (la facturación será más costosa).
 * **Ventas de la Scorecard**:
     * Mayor intrpretabilidad
@@ -8,7 +8,7 @@ La implementación de Scorecards en la industria financiera lleva bastante tiemp
 * **Desventajas**:
     * En algunos casos menor precisión que los algoritmos mencionados.
       
-La Scorecard desarrollada en el presente trabajo es para **la originación de prestamos hipótecarios**. Sin embargo, la metodología seguida también es aplicable a la construcción de scores de comportamiento, cobranza, propensión, fraudes, satisfacción, retención, etc. 
+La Scorecard desarrollada en el presente trabajo es para **la originación de créditos hipotecarios**. Sin embargo, la metodología seguida también es aplicable a la construcción de scores de comportamiento, cobranza, propensión, fraudes, satisfacción, retención, etc. 
 
 La última parte de este proyecto muestra la puesta en producción de la Scorecard de forma local.
 
