@@ -8,7 +8,7 @@ La implementación de Scorecards en la industria financiera lleva bastante tiemp
 * **Desventajas**:
     * En algunos casos menor precisión que los algoritmos mencionados.
       
-La Scorecard desarrollada en el presente trabajo es para **la originación de créditos hipotecarios**. Sin embargo, la metodología seguida también es aplicable a la construcción de scores de comportamiento, cobranza, propensión, fraudes, satisfacción, retención, etc. 
+La Scorecard desarrollada en este proyecto es para **la originación de créditos hipotecarios**. Sin embargo, la metodología seguida también es aplicable a la construcción de scores de comportamiento, cobranza, propensión, fraudes, satisfacción, retención, etc. 
 
 La última parte de este proyecto muestra la puesta en producción de la Scorecard de forma local.
 
